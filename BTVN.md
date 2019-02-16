@@ -16,3 +16,7 @@
 [Bai 5](https://www.spoj.com/KMASAM/problems/TAALG204/)
 
 [Bai NT Dung Sang Phan Doan](https://www.spoj.com/KMASAM/problems/PRIME1/)
+
+[Ung dung Sang NT ](https://www.spoj.com/KMASAM/problems/DIV/)
+
+[Nghi Tinh Tong Cac Uoc So Nguyen Dung Sang NT]
