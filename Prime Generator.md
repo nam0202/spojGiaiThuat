@@ -92,10 +92,12 @@ int main(){
                 for (int j = i; j*i <= n ;j++ ) {
                     array[j*i] = false;
                 }
+                System.out.println(i);
+
             }
         }
         //Printf All element is Prime
-        for (int i = 2; i <= n; i++) {
+        for (int i = sqrt+1; i <= n; i++) {
             if(array[i]){
                 System.out.println(i);
             }
